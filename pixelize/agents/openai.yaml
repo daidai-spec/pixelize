@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixelize"
+  short_description: "将人物、物体与各类场景转换为稳定且可控的手绘像素艺术效果"
+  default_prompt: "Use $pixelize to convert this image into consistent pixel art at the requested detail level."
