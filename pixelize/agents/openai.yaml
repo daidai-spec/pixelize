@@ -1,4 +1,4 @@
 interface:
   display_name: "Pixelize"
-  short_description: "将人物、物体与各类场景转换为稳定且可控的手绘像素艺术效果"
-  default_prompt: "Use $pixelize to convert this image into consistent pixel art at the requested detail level."
+  short_description: "将人物、物体与场景转换为稳定可控的8-bit与16-bit复古游戏像素插画"
+  default_prompt: "Use $pixelize to convert this image into a retro game pixel illustration at the requested detail level."
