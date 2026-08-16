@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Generate clean, intentional pixel-art images from either a reference image or a text description. Preserve recognizability, use a consistent pixel grid, and avoid results that merely look like a pixelation filter.
+Generate clean, intentional pixel-art images from either a reference image or a text description. Preserve recognizability, use a consistent pixel grid, and avoid results that merely look like a pixelation filter. Apply the retro game era language, palette behavior, and exclusions from `retro-game-style-guide.md` to every result.
 
 ## Input modes
 
@@ -42,7 +42,7 @@ Use a limited, deliberate palette with discrete color steps.
 - `32`: 8–16 colors.
 - `64`: 16–32 colors.
 
-Use flat color regions and clear value separation. Apply simple stepped shading when needed; do not use smooth gradients. Use bright accent colors only to clarify the focal point or an important detail. Prefer colored shadows and colored highlights over pure black and pure white whenever possible.
+Use flat color regions, compact hue-shifted ramps, and clear value separation. Apply simple stepped shading when needed; do not use smooth gradients. Use bright accent colors only to clarify the focal point or an important detail. Prefer colored shadows and colored highlights over pure black and pure white whenever possible. Use patterned dithering sparingly and intentionally; never use it as uniform surface noise.
 
 For a character or object conversion, use a restrained enhancement layer: a simple shadow under a helmet rim or chin, small darker overlap planes, selective garment-fold clusters, and occasional clustered highlights on curved or hard surfaces. Prefer a clear outline and 1–2 discrete shading steps over dense rendering. Preserve the source identity, pose, and composition; do not invent unrelated props, change the design, over-texture surfaces, or turn the source into a different character.
 

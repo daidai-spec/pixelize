@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use the bundled images as the accepted visual calibration for the apparent effect strength of each content type and detail preset. Calibrate pixel-cluster scale, retained information, simplification, and completion level from them. Do not treat them as subject, composition, palette, or style-copying references.
+Use the bundled images as the accepted visual calibration for the apparent effect strength of each content type and detail preset. Calibrate pixel-cluster scale, retained information, simplification, and completion level from them. Do not treat them as subject, composition, palette, era, or style-copying references. Use `retro-game-style-guide.md` as the authority for the retro game visual language even when a calibration image has a different rendering character.
 
 ## Reference map
 
@@ -41,7 +41,7 @@ Do not copy or infer any of these properties from the calibration images:
 - palette, lighting, weather, atmosphere, or material treatment
 - labels, symbols, logos, or text
 
-The user's source image or description controls content and composition. The style guides control the pixel-art construction rules. The bundled images control only the accepted effect degree.
+The user's source image or description controls content and composition. The general, scene, and retro game style guides control the construction and era language. The bundled images control only the accepted effect degree.
 
 ## Validate
 
